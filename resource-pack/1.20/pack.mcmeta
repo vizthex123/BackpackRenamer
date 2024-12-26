@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Reverts Forestry's backpack names back to their legacy names."
+    }
+}
